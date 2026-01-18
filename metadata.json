@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Rivers Aviation Academy",
+  "description": "Premium aviation training academy for Ground Staff, Cabin Crew, and Aviation Management (BBA/MBA). Elevate your career with industry-leading excellence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
